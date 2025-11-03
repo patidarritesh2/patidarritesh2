@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Patidar</h1>
-<h3 align="center">Full Stack Developer | Java ⚡ | Angular 🚀 | Node.js 🌐 | Docker 🐳</h3>
+<h3 align="center">Full Stack Developer | Java ⚡ | Angular 🚀 | Node.js 🌐 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=800&lines=Building+Scalable+Applications+with+Modern+Tech+Stacks;Passionate+About+Clean+Code+and+Best+Practices;Exploring+DevOps+and+CI/CD+Pipelines" alt="Typing SVG" />
@@ -14,6 +14,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
