@@ -24,7 +24,7 @@
 
 - 👨‍💻 Passionate about developing secure and scalable full-stack applications.
 - 🔐 Implemented advanced security features including Single Sign-On (SSO) and protection against Cross-Site Scripting (XSS).
-- 🐳 Experienced in containerizing applications using Docker for consistent deployment environments.
+- 🐳 Experienced in Deployed applications using Azure for consistent deployment environments.
 - ✉️ Reach me at: [patidarritesh2205@gmail.com](mailto:patidarritesh2205@gmail.com)
 
 ---
@@ -64,5 +64,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ritesh-patidar-716874294/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+ 
 </p>
