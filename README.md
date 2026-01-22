@@ -60,6 +60,8 @@ Full Stack Developer | Java ⚡ | Angular 🚀 | Node.js 🌐
 
 ### 🔐 Single Sign-On (SSO)
 🔗 https://github.com/patidarritesh2/SSO  
+🔗 https://github.com/patidarritesh2/MSAL_SSO
+  
 - Implemented **OAuth2 / OpenID Connect** based authentication
 - Secure login flow for **Angular applications**
 - Token handling, session management, and secured API access
